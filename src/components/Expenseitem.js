@@ -1,7 +1,7 @@
 import ExpenseDate from './ExpenseDate';
-import Card from './Card';
+
 import './Expenseitem.css';
-import React, { useState } from 'react';
+import React from 'react';
 
 function Expenseitem(props) {
   

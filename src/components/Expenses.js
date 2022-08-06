@@ -1,9 +1,8 @@
-import Expenseitem from './Expenseitem';
-import Card from './Card';
+
 import './Expenses.css';
 import ExpensesFilter from './ExpensesFilter';
 import ExpensesList from './ExpensesList';
-import ExpensesChart from './ExpenseChart';
+
 import React, { useState } from 'react';
 
 function Expenses (props){
